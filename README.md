@@ -1,11 +1,8 @@
 # To-Do-Liste-v2
 
-A simple todo-liste that use localstorage in javascript
-<a target="_blank" href="https://roy-bivash.github.io/To-Do-Liste-v2/">Click here for the DEMO</a>
+A simple todo-liste that use localstorage in javascript : <a target="_blank" href="https://roy-bivash.github.io/To-Do-Liste-v2/">DEMO v2</a>
 
-This is the version 2 of the <a target="_blank" href="https://roy-bivash.github.io/To-Do-Liste/">this Todo List</a>
-
-
+Also see the v1 : <a target="_blank" href="https://roy-bivash.github.io/To-Do-Liste/">DEMO v1</a>
 
 Update : 
 - Possibility to add multiple lists
